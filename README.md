@@ -105,12 +105,6 @@ digit_recognizer/
 
 ---
 
-## 📝 CV Line
-
-> *Handwritten Digit Recognizer — Implemented MLP backpropagation and Adam optimizer from scratch in NumPy (98.24% MNIST accuracy); trained PyTorch LeNet CNN (98.73%); visualized learned filters and feature maps; deployed as interactive Streamlit app with draw canvas.*
-
----
-
 ## 👤 Author
 
 **Sajid Ansari** — BTech CSE  
